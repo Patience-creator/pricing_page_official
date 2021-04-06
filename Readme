@@ -1,0 +1,8 @@
+Commented out sections:
+whenever I use border top it pushes the price card down.
+.price-card-move{
+/* border-top: 0.2rem solid #00b3b3; */
+
+ Today I read the last question again and I found out that what I did was wrong. 
+So I won't fix the accordion & border top issue for now since I will need to
+ quickly make another wireframe and present it together with this one. 
